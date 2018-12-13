@@ -1,0 +1,27 @@
+--|========================|
+--| Инструкция к программе |
+--|  Instruction for prog. |
+--|  Developer: Barawik_   |
+--| P.S hologram file need |
+--| be .holo format (only) | 
+--|=======================-|
+
+Для того, чтобы начать рисовать свою голограмму,
+нужно познакомится с цветами, доступно 3 цвета - RGB
+
+Чтобы нарисовать 1 квадратик, нужно поставить цыфру нужного цвета.
+ Цвета:
+  Красный = 1;
+  Зеленый = 2;
+  Синий   = 3;
+
+If u want to draw your hologram,
+need become acquainted with colors, you have 3 colors - RGB
+
+To draw 1 square, need put 1 number of 3 colors
+ Colors:
+  Red   = 1;
+  Green = 2;
+  Blue  = 3;
+
+If u find mistakes, sorry, i'm don't know English good. (C) Google Translator.
