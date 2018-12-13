@@ -18,7 +18,7 @@ local event = require("event")
     shell.execute("wget https://github.com/BarawikS/Holo/blob/master/holograms/holo_print.lua holo_print.lua")
 print("\nПрограмма для отображения установлена.")
 os.sleep(2)
-shell.execute("wget https://github.com/BarawikS/Holo/blob/master/holograms/first_holo.holo test_holo.holo")
+shell.execute("wget https://github.com/BarawikS/Holo/blob/master/holograms/test_holo.holo test_holo.holo")
 print("\nТестовая голограмма установлена.")
 -- Перезапуск компа
  print("\nШобы перезапустить компьютер, просто тыкните.")
