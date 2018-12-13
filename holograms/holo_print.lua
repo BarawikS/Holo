@@ -3,7 +3,7 @@
 -- |  Голограмм на гологр.проекторе  |
 -- |  Проект: MCSkill.ru Сервер:TMSB |
 -- |  Developer: Barawik_ Modded: No |
--- |================================-|
+-- |=================================|
 component = require("component")
 holo = component.hologram
 gpu = component.gpu
