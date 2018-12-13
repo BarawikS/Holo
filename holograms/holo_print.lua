@@ -47,6 +47,5 @@ for y = 1, i do
     holo.set(x,32-y,z,color)
   end
 end
-holo.setSize(5)
 holo.setRotationSpeed(20,0,1,0)
 file:close()
