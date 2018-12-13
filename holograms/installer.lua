@@ -22,4 +22,3 @@ print("\nТестовая голограмма установлена.")
                 print("\nРестарт...")
                 os.sleep(2)
                 shell.execute("reboot")
-end
