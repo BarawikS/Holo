@@ -4,9 +4,9 @@
 -- |  Проект: MCSkill.ru Сервер:TMSB |
 -- |  Developer: Barawik_ Modded: No |
 -- |=================================|
-local component = require("component")
-local holo = component.hologram
-local gpu = component.gpu
+component = require("component")
+holo = component.hologram
+gpu = component.gpu
 string1 = ""
 z = 24
 i = 0
