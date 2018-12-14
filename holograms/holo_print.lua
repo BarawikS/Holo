@@ -9,9 +9,9 @@ local fs = require("filesystem")
 if not fs.exists("test_holo.holo") then
 shell.execute("wget https://github.com/BarawikS/Holo/blob/master/holograms/test_holo.holo test_holo.holo")
   end
-  print("/nТестовая голограмма установлена")
+  print("\nТестовая голограмма установлена")
   os.sleep(1)
-  print("/nМожно продолжать пользоваться программой.")
+  print("\nМожно продолжать пользоваться программой.")
   os.sleep(2)
 
 component = require("component")
