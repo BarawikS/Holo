@@ -7,7 +7,7 @@
 local shell = require("shell")
 local fs = require("filesystem")
 shell.execute("rm test_holo.holo")
-shell.execute("wget https://github.com/BarawikS/Holo/blob/master/holograms/test_holo.holo test_holo.holo")
+shell.execute("wget https://raw.githubusercontent.com/BarawikS/Holo/master/holograms/test_holo.holo test_holo.holo")
   print("\nТестовая голограмма установлена")
   os.sleep(1)
   print("\nМожно продолжать пользоваться программой.")
